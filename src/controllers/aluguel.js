@@ -43,8 +43,3 @@ module.exports = {
     update,
     destroy
 }
-// id (número único)
-// idLivro (número, referenciando um livro)
-// idEstudante (número, referenciando um estudante)
-// dataAluguel (string)
-// dataDevolucao (string, opcional)

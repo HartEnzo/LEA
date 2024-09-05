@@ -43,9 +43,3 @@ module.exports = {
     update,
     destroy
 }
-    // Tipo de Dado: Livro
-    // id (número único)
-    // título (string)
-    // autor (string)
-    // ano (número)
-    // gênero (string)
