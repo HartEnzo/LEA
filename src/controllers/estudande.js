@@ -42,10 +42,4 @@ module.exports = {
     store,
     update,
     destroy
-}
-// Tipo de Dado: Estudante
-// id (número único)
-// nome (string)
-// matrícula (string)
-// curso (string)
-// ano (número)
+} 
